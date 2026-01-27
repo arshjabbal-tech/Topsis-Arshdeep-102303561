@@ -15,7 +15,7 @@ The program is executed using the file named program.py, which serves as the mai
 ### Example
 ```python __main__.py data.csv "1,1,1,1,1" "+,+,+,+,+" result.csv```
 
-## Please Note That"
+## Please Note That
 
 The first column and first row are removed by the library before processing, in attempt to remove indices and headers. So the csv MUST follow the format as shown in data.csv shown in the Example section.
 The input data file MUST contain three or more columns.
