@@ -1,0 +1,2 @@
+[console_scripts]
+topsis-arshdeep = topsis_arshdeep.main:main
