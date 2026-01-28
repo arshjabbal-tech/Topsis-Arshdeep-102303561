@@ -1,5 +1,3 @@
-README.md
-
 # Topsis-Arshdeep-102303561
 TOPSIS( Technique for order for preference by similarity to Ideal solution ) for MCDM (Multiple criteria decision making) in Python compiled by Arshdeep Kaur, 102303561, TIET, Patiala.
 
