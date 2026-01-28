@@ -5,14 +5,17 @@ TOPSIS( Technique for order for preference by similarity to Ideal solution ) for
 
 ## Installation
 Use the package manager pip to install Topsis-Arshdeep-102303561.
+
 ```pip install Topsis-Arshdeep-102303561```
 
 ## Usage
 Enter csv filename followed by .csv extentsion, then enter the weights vector with vector values separated by commas, followed by the impacts vector with comma separated signs (+,-) and enter the output file name followed by .csv extension.
 The program is executed using the file named program.py, which serves as the main entry point for running all commands.
+
 ```python <program.py> <InputDataFile as .csv> <Weights as a string> <Impacts as a string> <ResultFileName as .csv>```
 
 ### Example
+
 ```python __main__.py data.csv "1,1,1,1,1" "+,+,+,+,+" result.csv```
 
 ## Please Note That
