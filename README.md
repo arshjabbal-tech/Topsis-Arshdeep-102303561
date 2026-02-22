@@ -27,7 +27,7 @@ Impacts and Weights MUST be separated by , (comma).
 
 ## 🌐 Web Interface
 <p align="center">
-  <img src="webpage.png" width="200">
+  <img src="webpage.png" width="300">
 </p>
 
 ## License
