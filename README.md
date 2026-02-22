@@ -25,6 +25,12 @@ The number of weights, impacts and columns (second to last) MUST be SAME.
 Impacts MUST either be '+' or '-'.
 Impacts and Weights MUST be separated by , (comma).
 
+## 📦 PyPI Package
+
+You can view the package on TestPyPI here:
+
+👉 https://test.pypi.org/project/Topsis-Arshdeep-102303561/
+
 ## 🌐 Web Interface
 <p align="center">
   <img src="webpage.png" width="300">
