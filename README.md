@@ -25,6 +25,9 @@ The number of weights, impacts and columns (second to last) MUST be SAME.
 Impacts MUST either be '+' or '-'.
 Impacts and Weights MUST be separated by , (comma).
 
+## 🌐 Web Interface
+
+![TOPSIS Webpage](webpage.png)
 ## License
 
 © 2026 Arshdeep Kaur
