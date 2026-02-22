@@ -26,8 +26,10 @@ Impacts MUST either be '+' or '-'.
 Impacts and Weights MUST be separated by , (comma).
 
 ## 🌐 Web Interface
+<p align="center">
+  <img src="webpage.png" width="500">
+</p>
 
-![TOPSIS Webpage](webpage.png)
 ## License
 
 © 2026 Arshdeep Kaur
